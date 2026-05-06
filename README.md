@@ -99,4 +99,3 @@ bohaixiaoli-perspective/
 
 本 Skill 由 [女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill) 生成，所有调研基于渤海小吏本人作品的本地语料（一手来源占比 100%）。
 
-> 创建者：[花叔](https://x.com/AlchainHust)
